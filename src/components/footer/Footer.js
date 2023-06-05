@@ -1,6 +1,6 @@
-import React from 'react'
+import React from "react";
 import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
-import {vidya} from "../../assets/index"
+import { vidya } from "../../assets/index";
 
 const Footer = () => {
   return (
@@ -8,17 +8,27 @@ const Footer = () => {
       <div className="w-full h-full flex flex-col gap-8">
         <img className="w-32" src={vidya} alt="logo" />
         <div className="flex gap-4">
-         <a href="https://about.meta.com/" target="_blank"> <span className="bannerIcon">
-            <FaFacebookF />
-          </span></a>
-         
-          <a href="https://twitter.com/home" target="_blank"><span className="bannerIcon">
-            <FaTwitter />
-          </span></a>
-          
-          <a href="https://www.linkedin.com/in/vidyadharshetty/" target="_blank"><span className="bannerIcon">
+          <a href="https://about.meta.com/" target="_blank">
+            {" "}
+            <span className="bannerIcon">
+              <FaFacebookF />
+            </span>
+          </a>
+
+          <a href="https://twitter.com/home" target="_blank">
+            <span className="bannerIcon">
+              <FaTwitter />
+            </span>
+          </a>
+
+          <a
+            href="https://www.linkedin.com/in/vidyadharshetty/"
+            target="_blank"
+          >
+            <span className="bannerIcon">
               <FaLinkedinIn />
-          </span></a>
+            </span>
+          </a>
         </div>
       </div>
       <div className="w-full h-full">
@@ -134,6 +144,6 @@ const Footer = () => {
       </div> */}
     </div>
   );
-}
+};
 
-export default Footer
+export default Footer;
