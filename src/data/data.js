@@ -8,13 +8,13 @@ export const featuresData = [
     id: 1,
     icon: <BsFillFileCodeFill />,
     title: "Web Developer",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    des: "Skilled in HTML, CSS, JavaScript, and React.js. Expertise in creating responsive websites. Strong knowledge of front-end development. Fluent in web technologies, delivering high-quality results efficiently.",
   },
   {
     id: 2,
     icon: <SiPowerbi />,
     title: "App Development",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    des: "Proficient in Java and Spring Boot, with experience developing web applications, showcasing strong backend development skills and expertise in RESTful API implementation.",
   },
   // {
   //   id: 3,
@@ -32,7 +32,7 @@ export const featuresData = [
     id: 5,
     icon: <SiAntdesign />,
     title: "UX Design",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    des: "Proficient in UX design methodologies such as user research, wireframing, prototyping, and usability testing. ",
   },
   // {
   //   id: 6,
