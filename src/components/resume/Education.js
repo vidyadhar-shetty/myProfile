@@ -19,18 +19,18 @@ const Education = () => {
           <ResumeCard
             title="Bachelor of Computer Applications"
             subTitle="Mangalore University (2016 - 2019)"
-            des="The training provided by universities in order to prepare people to work in various sectors of the economy or areas of culture."
+            des="I have done my Bachelor of Computer Applications degree at Mangalore University, where I received comprehensive training in programming languages."
           />
           <ResumeCard
             title="PCMB"
-            subTitle="PCMB (2014 - 2016)"
-            des="Higher education is tertiary education leading to award of an academic degree. Higher education, also called post-secondary education."
+            subTitle="GPU College Byndoor (2014 - 2016)"
+            des="I completed finished my pre-university course specializing in Physics, Chemistry, Mathematics, and Biology from the Karnataka Education Board."
           />
           <ResumeCard
             title="Secondary School Education"
-            subTitle="Kingstar Secondary School (1998 - 2000)"
-            result="5.00/5"
-            des="Secondary education or post-primary education covers two phases on the International Standard Classification of Education scale."
+            subTitle="GJC Byndoor(2011-2014)"
+            // result="5.00/5"
+            des="Completed Secondary school education or post-primary education from  Karnataka Secondary School Education Board."
           />
         </div>
       </div>

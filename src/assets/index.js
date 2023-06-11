@@ -1,5 +1,6 @@
 import logo from "./images/logo.png";
 import vidya from "./images/vidya.jpg"
+import vidya1 from "./images/vidya1.png"
 import bannerImg from "./images/bannerImg.png";
 import projectOne from "./images/projects/projectOne.jpg";
 import projectTwo from "./images/projects/projectTwo.jpg";
@@ -13,6 +14,7 @@ import profile from "./images/profile.png"
 export {
   logo,
   vidya,
+  vidya1,
   bannerImg,
   projectOne,
   projectTwo,

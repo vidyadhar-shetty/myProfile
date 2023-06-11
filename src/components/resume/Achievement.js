@@ -17,21 +17,23 @@ const Achievement = () => {
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Java Full Stack Course"
-            subTitle="Lorem ipsum dolor sit amet alternative."
+            // subTitle="Lorem ipsum dolor sit amet alternative."
             result="Success"
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
+            des="
+            With extensive training in front-end technologies (HTML, CSS, JavaScript, React) and expertise in back-end technologies (Java, Hibernate, Spring Boot), I effectively manage databases (MySQL, Oracle SQL). Specialized training includes building robust APIs for seamless integration and communication between software components."
           />
           <ResumeCard
             title="Microsoft Certified: Power Platform Fundamentals"
-            subTitle="Lorem ipsum dolor sit amet alternative."
+            // subTitle="Lorem ipsum dolor sit amet alternative."
             result="Success"
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
+            des="This engaging course offers an opportunity to learn the fundamentals of Microsoft Power Platform, including how to effectively utilize Microsoft Power Apps for building enterprise-level applications. Participants will gain expertise in implementing workflows using Power Automate and handling databases to streamline business processes"
           />
           <ResumeCard
             title="Sophos Central Central Cloud Management"
-            subTitle="Lorem ipsum dolor sit amet alternative."
+            // subTitle="Lorem ipsum dolor sit amet alternative."
             result="Success"
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
+            des="
+            This comprehensive course focuses on configuring and managing Sophos Central Endpoint, analyzing threats, understanding antivirus basics, managing threat protection policies, and applying advanced security measures such as web filtering, device control, application control, and DLP policies."
           />
         </div>
       </div>

@@ -1,5 +1,5 @@
 import { AiFillAppstore } from "react-icons/ai";
-import { FaMobile, FaGlobe} from "react-icons/fa";
+import { FaMobile, FaGlobe } from "react-icons/fa";
 import { SiProgress, SiAntdesign, SiPowerbi } from "react-icons/si";
 import { BsFillFileCodeFill } from "react-icons/bs";
 

@@ -18,20 +18,20 @@ const Experience = () => {
           <ResumeCard
             title="Intership"
             subTitle="Jspiders - (2022 - Present)"
-            result="USA"
-            des="Google's hiring process is an important part of our culture. Googlers care deeply about their teams and the people who make them up."
+            // result="USA"
+            des="I have received comprehensive training in front-end technologies such as HTML, CSS, JavaScript, and React. Additionally, I have gained proficiency in back-end technologies like Java and its frameworks, including Hibernate and Spring Boot. Furthermore, I have experience in managing databases using MySQL and Oracle SQL."
           />
           <ResumeCard
             title="IT engineer"
             subTitle="Mother India Forming Pvt Ltd. - (2020 - 2022)"
-            result="MALAYSIA"
-            des="A popular destination with a growing number of highly qualified homegrown graduates, it's true that securing a role in Malaysia isn't easy."
+            // result="MALAYSIA"
+            des="As an IT engineer, I have effectively taken care of configuring and maintaining the security and integrity of software and web applications. I am proficient in preventing external and internal threats through the utilization of firewalls."
           />
           <ResumeCard
             title="Metsmith Pvt. Ltd."
             subTitle="Digital Marketing Executive - (2019-2020)"
-            result="Oman"
-            des="The Oman economy has grown strongly over recent years, having transformed itself from a producer and innovation-based economy."
+            // result="Oman"
+            des="As a Digital Marketing Executive, I have successfully provided services such as launching optimized online advertisements to increase company and brand awareness. Additionally, I have been actively involved in search engine optimization efforts, including keyword and image optimization."
           />
         </div>                                            
       </div>
