@@ -27,12 +27,12 @@ const Projects = () => {
         </span></a> }
         />
         <ProjectsCard
-          title="Cryptoverse"
-          des=" Created a React app with real-time cryptocurrency data and news integration. Implemented features such as live prices, curated articles, and a user-friendly interface for seamless interaction"
+          title="Weather App(mausam)"
+          des=" Developed a dynamic weather application and Implemented interactive features such as real-time weather data updates, location-based forecasts."
           src={projectThree}
-          git = { <a href='https://github.com/vidyadhar-shetty/Crypto.git' target="_blank"><span className="text-lg w-10 h-10 rounded-full bg-black inline-flex justify-center items-center text-gray-400 hover:text-designColor duration-300 cursor-pointer">
+          git = { <a href='https://github.com/vidyadhar-shetty/weather' target="_blank"><span className="text-lg w-10 h-10 rounded-full bg-black inline-flex justify-center items-center text-gray-400 hover:text-designColor duration-300 cursor-pointer">
           <BsGithub /></span></a> }
-          link={ <a href='https://cryptoverse02.netlify.app/' target="_blank"><span className="text-lg w-10 h-10 rounded-full bg-black inline-flex justify-center items-center text-gray-400 hover:text-designColor duration-300 cursor-pointer">
+          link={ <a href='https://mausam-mu.vercel.app/' target="_blank"><span className="text-lg w-10 h-10 rounded-full bg-black inline-flex justify-center items-center text-gray-400 hover:text-designColor duration-300 cursor-pointer">
           <FaGlobe />
         </span></a> }
         />
